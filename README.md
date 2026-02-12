@@ -2,4 +2,4 @@
 
 Ceci est un projet test pour explorer l'utilisation de Github.
 
-Changement supplément
+Voici le changement.
